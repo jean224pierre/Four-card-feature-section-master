@@ -31,11 +31,11 @@ header p {
 }
 section {
   background: white;
-  padding: 1.5rem;
+  padding: 1rem;
   border-radius: 8px;
   box-shadow: 0 8px 16px rba(0, 0, 0, 0.1);
   margin-bottom: 1.5rem;
-  border-top: 4px solid;
+  border-top: 2px solid;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
